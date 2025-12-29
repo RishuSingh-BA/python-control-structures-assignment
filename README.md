@@ -1,4 +1,4 @@
-# Assignment 2: Control Structures in Python
+# Control Structures in Python
 
 ## Task 1: Check if a Number is Even or Odd
 - Takes an integer input from the user.
